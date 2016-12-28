@@ -1,6 +1,6 @@
 @ECHO OFF
 COLOR 1F
-TITLE "Valve/Steam FPS Fix for Windows 10"
+TITLE Valve/Steam FPS Fix for Windows 10
 
 ECHO Valve/Steam FPS Fix for Windows 10 
 ECHO -------------------------------------------
